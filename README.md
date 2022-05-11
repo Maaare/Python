@@ -9,3 +9,4 @@ projects done in Python
 - I will have to update W10 and clean install GitBash
 
 - u subotu pustam kod na githubu
+- vratio sam se
