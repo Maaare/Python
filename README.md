@@ -10,3 +10,9 @@ projects done in Python
 
 - u subotu pustam kod na githubu
 - vratio sam se
+- jel jesi?
+- jesam
+- kako je bilo?
+- onako
+- jel imas da radis nesto sada?
+- imam
