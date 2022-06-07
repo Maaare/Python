@@ -16,3 +16,5 @@ projects done in Python
 - onako
 - jel imas da radis nesto sada?
 - imam
+HOJ HOJ HOJ
+TO JE TAJ VODENI PUB
