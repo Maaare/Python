@@ -18,3 +18,8 @@ projects done in Python
 - imam
 HOJ HOJ HOJ
 TO JE TAJ VODENI PUB
+Gledam ludwiga umesto da radim MA
+al pocinjem uskoro da radim MA
+ZNACI: - MA odradi predavanja / vezbe
+       - ORS pogledaj koliko cega ima
+       - Pogledaj MA popravni uslovi
