@@ -9,8 +9,6 @@ projects done in Python
 
 
 ZNACI: - MA odradi predavanja / vezbe
-       - ORS pogledaj koliko cega ima
        - Pogledaj MA popravni uslovi
 ZNACI: - MA odradi predavanja / vezbe
-       - ORS pogledaj koliko cega ima
        - Pogledaj MA popravni uslovi
