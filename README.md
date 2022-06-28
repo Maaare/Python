@@ -8,7 +8,5 @@ projects done in Python
 - I will have to download it again and push it
 
 
-ZNACI: - MA odradi predavanja / vezbe
-       - Pogledaj MA popravni uslovi
-ZNACI: - MA odradi predavanja / vezbe
-       - Pogledaj MA popravni uslovi
+- DS i LAAG
+- Python + SQL + HTML/CSS + JS
