@@ -10,3 +10,5 @@ projects done in Python
 
 - DS i LAAG
 - Python + SQL + HTML/CSS + JS
+- voznja i sistematski
+- focus na tvoje stvari
