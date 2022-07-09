@@ -12,3 +12,4 @@ projects done in Python
 - Python + SQL + HTML/CSS + JS
 - voznja i sistematski
 - focus na tvoje stvari
+- Ivan danas, sistematski ponedeljak, voznja utorak, potpis ugovora sledece nedelje
