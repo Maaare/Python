@@ -14,3 +14,5 @@ projects done in Python
 - focus na tvoje stvari
 - Ivan danas, sistematski ponedeljak, voznja utorak, potpis ugovora sledece nedelje
 - Subota - Oftamolog u Vizimu
+- DS i LAAG danas + Python
+- Odmori jos malo 15-25 minuta
