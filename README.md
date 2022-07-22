@@ -15,4 +15,4 @@ projects done in Python
 - Ivan danas, sistematski ponedeljak, voznja utorak, potpis ugovora sledece nedelje
 - Subota - Oftamolog u Vizimu
 - DS i LAAG danas + Python
-- Odmori jos malo 15-25 minuta
+- Odmori jos malo 15-25 minuta -> dogovori se sa Alex oko nedelje + operi kosu
