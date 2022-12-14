@@ -1,1 +1,6 @@
 
+pwd - chekcing working directory
+ls - what is accessible through current working directory
+cd + <folder_name> - going to that folder
+clear - clearing command line
+cd .. - going up (back) to previous directory from where you came from
